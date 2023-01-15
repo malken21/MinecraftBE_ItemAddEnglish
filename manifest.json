@@ -11,7 +11,7 @@
       {
         "type": "resources",
         "description": "Item Name + English",
-        "version": [1, 0, 0],
+        "version": [1, 0, 1],
         "uuid": "24538b53-7d12-4540-9f40-aef55ab7f567"
       }
     ],
