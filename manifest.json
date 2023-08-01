@@ -3,34 +3,20 @@
   "header": {
     "name": "ItemAddEnglish",
     "description": "Item Name + English",
-    "version": [
-      1,
-      19,
-      70
-    ],
+    "version": [1, 20, 10],
     "uuid": "af5ce281-8373-4e09-9764-08adda2a47eb",
-    "min_engine_version": [
-      1,
-      13,
-      0
-    ]
+    "min_engine_version": [1, 13, 0]
   },
   "modules": [
     {
       "type": "resources",
       "description": "Item Name + English",
-      "version": [
-        1,
-        1,
-        0
-      ],
+      "version": [1, 2, 0],
       "uuid": "24538b53-7d12-4540-9f40-aef55ab7f567"
     }
   ],
   "metadata": {
-    "authors": [
-      "Marumasa"
-    ],
+    "authors": ["Marumasa"],
     "url": "https://github.com/malken21",
     "license": "https://github.com/malken21/MinecraftBE_ItemAddEnglish/blob/main/LICENSE"
   }
